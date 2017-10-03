@@ -11,14 +11,14 @@
          <EndDate>4090521600</EndDate>
          <Contents>3276,3276,3276,3276,3276,3276</Contents>
       </Package>
-	  <Package id="705">
+	  <Package id="1">
          <Name>rofl</Name>
-         <Price>3500</Price>
+         <Price>3600</Price>
          <Quantity>-1</Quantity>
          <MaxPurchase>-1</MaxPurchase>
-         <Weight>3</Weight>
+         <Weight>1</Weight>
          <BgURL>https://axeall.github.io/remote/assets/package/ample_space_package.png</BgURL>
-         <EndDate>4090521600</EndDate>
+         <EndDate>4090521700</EndDate>
          <Contents>3276,3276,3276,3276,3276,3276</Contents>
       </Package>
    </Packages>
