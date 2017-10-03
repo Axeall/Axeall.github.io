@@ -13,11 +13,11 @@
       </Package>
 	  <Packages>
       <Package id="705">
-         <Name>Super Ambro Pack</Name>
+         <Name>Super Ambro Pack 2</Name>q
          <Price>3500</Price>
          <Quantity>-1</Quantity>
          <MaxPurchase>-1</MaxPurchase>
-         <Weight>1</Weight>
+         <Weight>3</Weight>
          <BgURL>https://axeall.github.io/remote/assets/package/x6AmbroPack.png</BgURL>
          <EndDate>4090521600</EndDate>
          <Contents>3276,3276,3276,3276,3276,3276</Contents>
